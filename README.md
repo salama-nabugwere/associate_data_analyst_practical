@@ -1,17 +1,13 @@
-#Data Analyst associate case study:
+# Data Analyst Associate Case Study: FoodYum Sales
 
-#project overview
-This repository contains my case study analysis on inventory and sales data for FoodYum, a grocery store chain looking to better match product supply with customer demand
+## Project Overview
+This repository contains my case study analysis on inventory and sales data for FoodYum, a grocery store chain looking to better match product supply with customer demand. 
 
+## Objectives
+* Validate and clean the dataset to ensure accurate metrics (handling missing values, verifying categories, and correcting data types).
+* Analyze pricing trends and stock levels across food categories like produce, meat, dairy, and snacks.
+* Provide actionable recommendations to optimize inventory management.
 
-##objectives
-validate and clean the dataset to ensure accurate metrics  such as handling missing values, verifying categories, and correcting data types
-
-Analyse pricing trends and stock levels across food categories like produce, meat, dairy, and snacks
-
-procide actionable recommendations to optimize inventory management
-
-#toolkit
-SQL  for data cleaning and quering
-
-datacamp Datalab
+## Toolkit
+* SQL for data cleaning and querying
+* DataCamp DataLab
